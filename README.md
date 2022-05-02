@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+CoffeeShop
+https://vavilentar.github.io/Coffee-shop/
+
 GoCorona landing page
 https://vavilentar.github.io/frls-life-web1/
 
