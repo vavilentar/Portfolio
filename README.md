@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+SWIPE - IT Company page
+https://vavilentar.github.io/SWIPE-IT-Company/
+
 CoffeeShop
 https://vavilentar.github.io/Coffee-shop/
 
