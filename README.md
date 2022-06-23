@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+Some JSON practice
+https://vavilentar.github.io/Employees-db/
+
 SWIPE - IT Company page
 https://vavilentar.github.io/SWIPE-IT-Company/
 
