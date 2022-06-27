@@ -4,6 +4,9 @@ My landing pages, apps and other projects
 Some JSON practice
 https://vavilentar.github.io/Employees-db/
 
+Simple clock with weather API (Moscow)
+https://vavilentar.github.io/clock/
+
 SWIPE - IT Company page
 https://vavilentar.github.io/SWIPE-IT-Company/
 
