@@ -1,7 +1,7 @@
 # Portfolio
 My landing pages, apps and other projects
 
-Some JSON practice
+Some JSON practice, not complete project
 https://vavilentar.github.io/Employees-db/
 
 Simple clock with weather API (Moscow)
