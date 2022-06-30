@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+Restaurant landing page
+https://vavilentar.github.io/cafe/
+
 Some JSON practice, not complete project
 https://vavilentar.github.io/Employees-db/
 
