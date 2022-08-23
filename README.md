@@ -5,7 +5,7 @@ Healthy Food
 https://vavilentar.github.io/healthy-food/
 
 Restaurant landing page
-https://vavilentar.github.io/cafe/
+https://vavilentar.github.io/Cafe/
 
 Some JSON practice, not complete project
 https://vavilentar.github.io/Employees-db/
