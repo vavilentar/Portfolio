@@ -5,16 +5,11 @@ To-do-shop list
 https://vavilentar.github.io/Shop-list/
 
 
+---
 
+---
 
-
-
-
-
-
-
-
-
+---
 
 
 Healthy Food
