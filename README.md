@@ -4,6 +4,8 @@ My landing pages, apps and other projects
 To-do-shop list
 https://vavilentar.github.io/Shop-list/
 
+Pet - Wardrobe
+https://vavilentar.github.io/Wardrobe/
 
 ---
 
