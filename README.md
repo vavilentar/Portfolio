@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+RS School Online-Zoo project page
+https://rolling-scopes-school.github.io/vavilentar-JSFE2022Q3/online-zoo/
+
 To-do-shop list
 https://vavilentar.github.io/Shop-list/
 
