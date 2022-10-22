@@ -1,7 +1,10 @@
 # Portfolio
 My landing pages, apps and other projects
 
-RS School Online-Zoo project page
+RS School My 'Gem Puzzle game'
+https://rolling-scopes-school.github.io/vavilentar-JSFE2022Q3/Gem-puzzle/
+
+RS School My 'Online-Zoo' page
 https://rolling-scopes-school.github.io/vavilentar-JSFE2022Q3/online-zoo/
 
 Программа для расчета исследования самоопределения и психологических границ
