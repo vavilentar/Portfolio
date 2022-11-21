@@ -4,6 +4,9 @@ My landing pages, apps and other projects
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
 
+RS School My 'SongBird' quiz game
+https://rolling-scopes-school.github.io/vavilentar-JSFE2022Q3/songbird/
+
 RS School My 'Gem Puzzle game'
 https://rolling-scopes-school.github.io/vavilentar-JSFE2022Q3/Gem-puzzle/
 
