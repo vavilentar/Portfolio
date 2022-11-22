@@ -22,13 +22,6 @@ https://vavilentar.github.io/Shop-list/
 Pet - Wardrobe
 https://vavilentar.github.io/Wardrobe/
 
----
-
----
-
----
-
-
 Healthy Food
 https://vavilentar.github.io/healthy-food/
 
@@ -50,23 +43,11 @@ https://vavilentar.github.io/Coffee-shop/
 GoCorona landing page
 https://vavilentar.github.io/frls-life-web1/
 
-From courses
+My task from Udemy course
 https://vavilentar.github.io/practice-food/
 
-From courses
+My task from Udemy course
 https://vavilentar.github.io/practice-uber/
 
 Coffee Mug shop page
 https://vavilentar.github.io/Coffee-mag-landing/
-
-Photo-agency landing page
-https://vavilentar.github.io/Atelier-photo-agency-landing/
-
-Journey landing page
-https://vavilentar.github.io/journey-landing/
-
-Watches store landing page
-https://vavilentar.github.io/Watches-store-landing/
-
-Photo portfolio page
-https://vavilentar.github.io/Incredible-portfolio-page/
