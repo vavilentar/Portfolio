@@ -28,12 +28,6 @@ https://vavilentar.github.io/healthy-food/
 Restaurant landing page
 https://vavilentar.github.io/Cafe/
 
-Some JSON practice, not complete project
-https://vavilentar.github.io/Employees-db/
-
-Simple clock with weather API (Moscow)
-https://vavilentar.github.io/clock/
-
 SWIPE - IT Company page
 https://vavilentar.github.io/SWIPE-IT-Company/
 
