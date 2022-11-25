@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+Pet - Wardrobe
+https://vavilentar.github.io/Wardrobe/
+
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
 
@@ -19,8 +22,7 @@ https://vavilentar.github.io/PSYCHO/
 To-do-shop list
 https://vavilentar.github.io/Shop-list/
 
-Pet - Wardrobe
-https://vavilentar.github.io/Wardrobe/
+---
 
 Healthy Food
 https://vavilentar.github.io/healthy-food/
