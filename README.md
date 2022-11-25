@@ -2,7 +2,7 @@
 My landing pages, apps and other projects
 
 Pet - Wardrobe
-https://vavilentar.github.io/Wardrobe/
+https://vavilentar.github.io/online-wardrobe/
 
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
