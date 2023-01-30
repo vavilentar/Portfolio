@@ -1,8 +1,8 @@
 # Portfolio
 My landing pages, apps and other projects
 
-Pet - Wardrobe
-https://vavilentar.github.io/online-wardrobe/
+Online store
+https://vavilentar.github.io/online-store/
 
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
