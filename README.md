@@ -1,6 +1,9 @@
 # Portfolio
 My landing pages, apps and other projects
 
+Pet-project "Online wardrobe"
+https://vavilentar.github.io/online-wardrobe_v3/
+
 Online store
 https://vavilentar.github.io/online-store/
 
