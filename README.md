@@ -1,11 +1,17 @@
 # Portfolio
 My landing pages, apps and other projects
 
+В разработке
+---
+
 Pet-project "Online wardrobe"
 https://vavilentar.github.io/online-wardrobe_v3/
 
 Online store
 https://vavilentar.github.io/online-store/
+
+Готовое
+---
 
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
@@ -25,6 +31,7 @@ https://vavilentar.github.io/PSYCHO/
 To-do-shop list
 https://vavilentar.github.io/Shop-list/
 
+Архив, верстка одностраничников
 ---
 
 Healthy Food
