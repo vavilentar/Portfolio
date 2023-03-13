@@ -1,5 +1,5 @@
-# Portfolio
-My landing pages, apps and other projects
+# Портфолио
+Одностраничники, домашние проекты
 
 В разработке
 ---
