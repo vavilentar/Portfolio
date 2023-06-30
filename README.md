@@ -1,5 +1,10 @@
-# Портфолио
+Основная страница https://beewebdev.ru/
+
+# Портфолио 
+
 Одностраничники, домашние проекты
+
+
 
 В разработке
 ---
@@ -12,6 +17,15 @@ https://vavilentar.github.io/online-store/
 
 Готовое
 ---
+
+Сайт магазина сладостей
+https://vavilentar.github.io/macaron-shop/
+
+Сайт онлайн-курсов
+https://vavilentar.github.io/courses/
+
+Персональная страница 
+https://vavilentar.github.io/simple-psy-page/
 
 Pomodoro timer
 https://vavilentar.github.io/Pomodoro/
