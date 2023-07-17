@@ -4,19 +4,11 @@
 
 Одностраничники, домашние проекты
 
-
-
-В разработке
----
-
-Pet-project "Online wardrobe"
-https://vavilentar.github.io/online-wardrobe_v3/
-
-Online store
-https://vavilentar.github.io/online-store/
-
 Готовое
 ---
+
+Коммерческий сайт изготовления мебели 
+https://mebelliz.ru/
 
 Сайт магазина сладостей
 https://vavilentar.github.io/macaron-shop/
@@ -44,6 +36,17 @@ https://vavilentar.github.io/PSYCHO/
 
 To-do-shop list
 https://vavilentar.github.io/Shop-list/
+
+
+В разработке
+---
+
+Pet-project "Online wardrobe"
+https://vavilentar.github.io/online-wardrobe_v3/
+
+Online store
+https://vavilentar.github.io/online-store/
+
 
 Архив, верстка одностраничников
 ---
